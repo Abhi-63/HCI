@@ -2,7 +2,7 @@ HCI ASSIGNMENT
 
 Hotel Management App - Lotus view(name of hotel)
 
-Concept Vedio Link :- 
+Concept Vedio Link :- https://www.powtoon.com/s/eFmtKkZMTYD/1/m
 
 Team Members :-
 
